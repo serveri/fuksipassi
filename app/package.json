@@ -17,7 +17,7 @@
   "dependencies": {
     "@directus/sdk": "^13.0.2",
     "@heroicons/vue": "^2.0.18",
-    "@nuxt/image": "^1.1.0",
+    "@nuxt/image": "^1.8.1",
     "ipx": "^3.0.0",
     "nuxt": "^3.9.3"
   },
